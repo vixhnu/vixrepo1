@@ -1,1 +1,4 @@
-sample file contents here
+{
+"name":"Vishnu",
+"house":"ambadi"
+}
